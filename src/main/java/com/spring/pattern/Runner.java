@@ -16,7 +16,8 @@ public class Runner {
         TextRenderer boldRenderer = new TextRenderer(
                 new DefaultFontStyleRenderer(), new DefaultColorRenderer(), new DefaultFontWeightRenderer()
         );
-        boldRenderer.render("Bold Rendering");
+        boldRenderer.render("Bold Rendering...");
+
 
     }
 }
